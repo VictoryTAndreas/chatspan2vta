@@ -96,7 +96,7 @@ pyasn1==0.6.1
 pyasn1_modules==0.4.1
 PyCRS==1.0.2
 pydantic==2.12.5
-pydantic_core==2.34.0
+#pydantic_core==2.34.0
 Pygments==2.19.1
 pyparsing==3.2.1
 pyperclip==1.9.0
