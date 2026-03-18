@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "geospatial-analytics-474609",
+  "private_key_id": "b7a8135c9430bb755b384d07d623cee07a593b8e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDiK7KKWrMwEV6U\ncdo+zd+EJ4yCsjmgO6lNqLzh1ZmAkXcupMrSk5fNAsPAoYUJGhClh5hzf6J/QoJn\nQCTgtABUYLmbAsOYGVC0BfFSdpJNdk/+Bl03bbMW658FT84Wh5NBKtfUna6jFiyZ\nrY4yzpmRbvhteN3J+eUG+tUi7OC22nsSnM2BxN1+yJFR+7KFAVUvCt6NbHaUvMfK\nMIMoR6wiwnkQbaXYnf7trwk8eKIo0WuSPhW9gmIOKEiTfNxWdkM0v2yUJnWhFEXk\n00GkI4JU/U7H9sNSQYlAY0r6gGtas97Ghs7ZuoAKp8/USBXrAnn+HSPDOs2e07x9\nFKYAvFKFAgMBAAECggEACbROSNlzbtCP+laYQrGasZTw1nrHNjTZItfmotoDaBzV\nvE6d1UM39Df2JkHH74gKxs92nx4O3t7/sWZzLqEKkpRD4n7P3arYZ6EJpbwosuIs\ntH2ZalNup8EcZaHy+cx/aQBpmlnZsG23JDDqNQvgUvkr96aD/bKXPSFuG72GNtI8\nZ3EhB37Av9h7+56LmIfquvJEKrDz8ZDV2yi36Tt9eOsXKzdOxd5W8qikp3e+Drzf\nmISlrrJIyeSoVE6OOqJQLn2P3AhR0s30OsA0GPCXA4IQTixXfz4TNujPOO6hrbzl\nav9sLYyRxbz31ydqpACLgSRFJFWfbLVuHOrHkKYQUQKBgQDwqLHHTMNFpsy9Bfe7\nGng6W8TNImnPI9R3dqxv7OkoE6yd4gmYPc0pd3GNQkpWjMM88GF9K9BpRuQSSOUV\nQEuCZQzdbXfkVc/hb2fZU4xRqy+OE9NuqkGCp0sJ0X5hPWFct2btAlDQxE0osFjj\nsbSY1I2ptzDlXwJ+xNMAAaUE8wKBgQDwlpHDgpc87tAlfmcWdAxEcTnEfpKeeNkS\na64JlhkUlzpDe7rnoC1BKROrTqDdaM6bYzSFVCgBI0QCfmd6gYr/X2EjlKPWkBzJ\noRQdjymVhmH68llwAXBTWEXxnbuFKjKKFIKkkz+BLm9EFFfot71bABFFjcozx+7Y\nRXd/z/eIpwKBgA2QlKS1MPSGGFg3M+V58njnn0oovGoOjPVG3SVZ5zJ5GWu0x/Gq\n2huSPfZGXEZQnNicfAJAK/kjI8vcC/2MqDTrWTRJ7U4TgComy2W2jdw0l/OcLni4\nZATnRRWCl2sHuKsvMz/8t21tAyRd/ESpSZKruGhuiPUEy/E1SudfMFv9AoGAAdIh\n6EjkvCFSkfYS8aiPLzVsKoCKu4hOnEUUXB42smEyn7AgCgC8VvHopDNEJGjWp3Zo\nv1mTs+6AZURvpA2275fZNFu7obQVg7EkZdTfi7Ioq62J378jCn5wiROYh7l6CHF/\nS5+Rq3iefvVodOpvFHE7sDsSfLHWrOxZqy33waECgYEA0Gj1ySyYRM+qvGVa2jAs\n8EhTGd59X0BteEIZV3MwGcZ1i43yxnvakmKdewsXuNEdmmVhPt0BJQIfTzNMh8Ne\nmR4CNBwcxlaq/IvRKcecNzSlHO/G92RFbshLFXlkHI8jqU1PgpTyNttJEu965miQ\nnHXnTzsBizmJv8MFqN1TAC4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "geospatial-analytics-services@geospatial-analytics-474609.iam.gserviceaccount.com",
+  "client_id": "101188402615173824152",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/geospatial-analytics-services%40geospatial-analytics-474609.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
