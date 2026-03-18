@@ -90,7 +90,6 @@ pillow==12.1.1
 plotly==6.5.2
 prompt-toolkit==3.0.50
 proto-plus==1.26.0
-protobuf==5.29.3
 pure-eval==0.2.3
 pyasn1==0.6.1
 pyasn1_modules==0.4.1
