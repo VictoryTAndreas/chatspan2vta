@@ -84,7 +84,7 @@ numpy>=2.0.0
 ollama==0.6.0
 orjson==3.11.3
 packaging==24.0
-pandas>=2.0.0,<2.1.0
+pandas>=2.0.0
 parso==0.8.4
 pillow==10.3.0
 plotly==5.22.0
